@@ -1,15 +1,40 @@
-Airbnb Clone 
+## Airbnb Clone
 
-This project is part of a team assignment.
+A full-stack Airbnb-inspired web application developed as a university team project.
 
- Backend implemented (Spring Boot)
- Frontend in progress
+## Technologies
 
-Features:
-- Authentication (JWT)
-- Listings
+- Java
+- Spring Boot
+- Spring Data JPA
+- Spring Security
+- JWT
+- PostgreSQL
+- React
+- Docker
+
+## Features
+
+- User authentication and authorization
+- Property listings
+- Property search
 - Booking system
 - Reviews
+- Wishlist
+- User trips
 
-My contribution:
-- Backend implementation (DTOs, services, controllers)
+## My Contribution
+
+As part of the development team, I worked on:
+
+- Backend development with Spring Boot
+- REST API development
+- DTOs, services and controllers
+- Authentication and authorization using Spring Security and JWT
+- Database integration with PostgreSQL
+- Frontend features and integration with the backend
+
+## Project Structure
+
+- `src/` — Spring Boot backend
+- `frontend/` — React frontend
